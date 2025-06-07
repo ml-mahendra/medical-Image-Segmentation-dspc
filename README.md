@@ -16,7 +16,7 @@ Best results are achieved using Hematoxylin-based clustering, with improved nucl
 
 ## 📌 Research Poster
 
-![Research Poster](./DSPC_Poster.png)
+![Research Poster](./DSPC_Poster.jpg)
 
 > *(If the poster doesn’t render, click [here to view it](./DSPC_Poster.pdf).)*
 
@@ -25,6 +25,6 @@ Best results are achieved using Hematoxylin-based clustering, with improved nucl
 ## References
 
 - Kumar et al. (2019). *Multi-Organ Nuclei Segmentation Challenge (MoNuSeg)*. IEEE TMI.  
-- Macenko et al. (2009). *Histology slide normalization*. ISBI.  
+- Macenko et al. (2009). *Histology slide normalisation*. ISBI.  
 - Bishop, C. M. (2006). *Pattern Recognition and Machine Learning*. Springer.
 
