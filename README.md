@@ -16,7 +16,7 @@ Best results are achieved using Hematoxylin-based clustering, with improved nucl
 
 ## 📌 Research Poster
 
-![Research Poster](./DSPC_Poster.pdf)
+![Research Poster](./DSPC_Poster.png)
 
 > *(If the poster doesn’t render, click [here to view it](./DSPC_Poster.pdf).)*
 
